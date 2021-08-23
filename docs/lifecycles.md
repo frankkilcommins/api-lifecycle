@@ -161,13 +161,62 @@
 #### Performance
 #### Monitoring
 
-### `Lifecycle 14 - UseOptic` 
+### `Lifecycle 14` | UseOptic 
 #### Proposal
 #### Build
 #### Test
 #### Ship
 #### Observe
 #### Prove
+
+### `Lifecycle 15` | Google Apigee 
+#### Design
+#### Develop
+#### Secure
+#### Publish
+#### Scale
+#### Monitor
+#### Analyze
+#### Monetize
+
+### `Lifecycle 16` | Nordic APIs
+#### Analyze
+##### Market Research
+##### Align API with Business Strategy
+##### Define Monetization
+##### Consumer profiling (API Consumer personas)
+##### Imagine Use case
+#### Develop
+##### Design
+##### Security
+##### Documentation
+##### Testing
+###### Functional
+###### Performance
+###### Scenario
+
+
+#### Operate
+##### Market
+##### Evangelize
+##### Support
+##### Monitor
+##### Analyze Metrics
+#### Retire
+##### Version
+##### Deprecate
+
+### `Lifecycle 17` | RedHat
+#### Strategy
+#### Design
+#### Mock
+#### Test
+#### Implement
+#### Deploy
+#### Secure
+#### Manage
+#### Promote
+#### Monetize
 
 ### `SmartBear Lifecycle 1` | [From Here](https://smartbear.com/solutions/api-lifecycle/)
 #### Design 
@@ -201,7 +250,7 @@
 #### Operate
 #### Monitor
 
-### `SmartBear Lifecycle 4 ` | From Persona based workflow pptx
+### `SmartBear Lifecycle 4` | From Persona based workflow pptx
 #### Design
 ##### Requirement
 ##### Design Candidate
