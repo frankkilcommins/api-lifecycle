@@ -5,7 +5,7 @@ There are a number of various lifecycles implemented by different organizations,
 
 ## Viewpoints
 
-I will group lifecycles into two viewpoints. Firstly, those belong to the you fall into the **producer** side of the how (e.g., _teams building APIs to be consumed by other teams/developers_) and the **consumer** perspective (e.g., _those developers or teams looking to consume APIs which were developed and published by remote teams or third parties_).
+I will group lifecycles into two viewpoints. Firstly, those belong to the you fall into the **producer** side of the house (e.g., _teams building APIs to be consumed by other teams/developers_) and the **consumer** perspective (e.g., _those developers or teams looking to consume APIs which were developed and published by remote teams or third parties_).
 
 - [API Producer Lifecycles](https://frankkilcommins.github.io/api-lifecycle/ProviderLifecycles.html)
 - [API Consumer Lifecycles](https://frankkilcommins.github.io/api-lifecycle/ConsumerLifecycles.html)
